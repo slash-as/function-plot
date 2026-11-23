@@ -1,5 +1,5 @@
 # function-plot
-a project that draws a function
+a project that draws a function in a form scratch multiplatform progrma with window.
 
 cc -Iinclude -c src/main.c -o main.o
 
